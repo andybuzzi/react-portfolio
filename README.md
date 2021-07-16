@@ -8,6 +8,7 @@ Hi there! I'm Anderson and this is my portfolio, here you will find more informa
 
 To access this application please click in the following link
 
+## Homepage Screenshot
 ![portfolio homepage](src/assets/images/react-portfolio.jpg)
 
 ## Website
